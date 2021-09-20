@@ -2,7 +2,7 @@
 <script>
 import {client_id, client_secret, redirect_uri} from '../../secrets.js'
 
-var scopes = 'user-read-private user-read-email user-library-read';
+var scopes = 'user-top-read user-read-private user-read-email user-library-read';
 var url = 'https://accounts.spotify.com/authorize' +
   '?response_type=token' +
   '&client_id=' + client_id +
