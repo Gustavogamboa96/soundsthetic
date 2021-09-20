@@ -83,7 +83,7 @@ console.log(albums)
     <h1 class="rainbow">Soundsthetic</h1>
     
 </div>
-<img src="../../resourcess/sounsthetic.png" alt="soundsthetic logo" class="logo">
+<img src="https://imgur.com/gallery/eKEokTd" alt="soundsthetic logo" class="logo">
 </div>
 
 <style>
