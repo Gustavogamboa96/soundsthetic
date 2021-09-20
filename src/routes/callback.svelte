@@ -22,7 +22,7 @@ import { text } from 'svelte/internal';
 
     /* 13 because that bypasses 'access_token' string */
     access_token = hash.substring(13, accessString);
-
+    console.log("this is access toke: "+access_token)
 
     const res = await fetch("https://api.spotify.com/v1/me/albums?limit=24&offset=5&market=US", {
     headers: {
@@ -87,6 +87,7 @@ console.log(albums)
 </div>
 
 <style>
+
 .logo{
 
     left: 50%;
