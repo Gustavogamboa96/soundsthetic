@@ -102,7 +102,7 @@ console.log(albums)
     line-height: normal !important;
   color: white;
   -webkit-text-stroke: 2px black;
-  margin-bottom: 0px;
+  
   font-family: monospace;
   position: absolute; 
   text-align: center;
