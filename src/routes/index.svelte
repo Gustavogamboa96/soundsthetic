@@ -22,7 +22,7 @@ var url = 'https://accounts.spotify.com/authorize' +
 <h1 class="text">Welcome to the Soundsthetic Generator</h1>
 <img src="https://i.imgur.com/8QPHKsc.png" alt="soundsthetic logo" class="logo">
 <br><br><br>
-<a style="text-align: center;" class="glow-on-hover button" href={url}>Log in with Spotify</a>
+<a style="left: 40%;" class="glow-on-hover button" href={url}>Log in with Spotify</a>
 </div>
 </body>
 <style>
